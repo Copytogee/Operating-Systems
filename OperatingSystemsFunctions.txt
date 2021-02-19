@@ -1,0 +1,1 @@
+File Manager Manages your files by displaying them and allowing you to edit them. You can also copy, rename, and edit other stuff from the file manager. It also helps access other hard drives or usb drives that are installed on your computer.
